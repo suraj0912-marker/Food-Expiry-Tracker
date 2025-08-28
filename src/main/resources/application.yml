@@ -7,8 +7,8 @@ spring:
   datasource:
     url: jdbc:h2:mem:fooddb
     driverClassName: org.h2.Driver
-    username: system
-    password: 123456suraj@Oracle
+    username: system By Default
+    password: enter your passport 
   jpa:
     hibernate:
       ddl-auto: update
